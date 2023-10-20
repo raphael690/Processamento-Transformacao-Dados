@@ -26,7 +26,7 @@ O processo envolve a criação de Banco de Dados com base no conjunto disponivel
 
 ## Pergunta e Respostas
 1. Por que Utilizar mesclar consultas e não combinar consultas nos casos supracitados?
-   Mesclar consultas é para o momento em que desejamos apenas unir as colunas entre tabelas, ou seja, trabalhando de formar colunar e combinar consulta está em unificar apenas as linhas entre as tabelas.
+- Mesclar consultas serve para o momento em que desejamos apenas unir as colunas entre tabelas, ou seja, trabalhando de formar colunar e combinar consulta está em unificar apenas as linhas entre as tabelas.
 
 
 ## Tecnologias Utilizandas no Projeto.
